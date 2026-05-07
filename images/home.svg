@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#ffffff"/>
+  <rect x="70" y="70" width="660" height="460" fill="#f8fafc" stroke="#d0d0d0" stroke-width="4"/>
+  <rect x="190" y="240" width="150" height="140" fill="#cbd5e1"/>
+  <rect x="360" y="180" width="170" height="200" fill="#d97706"/>
+  <rect x="550" y="220" width="90" height="160" fill="#fee2e2"/>
+  <rect x="365" y="265" width="40" height="115" fill="#ffffff"/>
+  <rect x="415" y="300" width="80" height="80" fill="#ffffff"/>
+  <text x="400" y="545" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#222222">Home setup</text>
+</svg>

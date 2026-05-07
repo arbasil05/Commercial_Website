@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1100" viewBox="0 0 900 1100">
+  <rect width="900" height="1100" fill="#f7f7f7"/>
+  <rect x="80" y="180" width="740" height="760" fill="#ffffff" stroke="#d0d0d0" stroke-width="6"/>
+  <rect x="80" y="180" width="740" height="150" fill="#d97706"/>
+  <rect x="160" y="380" width="160" height="180" fill="#cbd5e1"/>
+  <rect x="370" y="380" width="160" height="180" fill="#f59e0b"/>
+  <rect x="580" y="380" width="160" height="180" fill="#cbd5e1"/>
+  <rect x="160" y="610" width="580" height="80" fill="#e5e7eb"/>
+  <rect x="160" y="740" width="220" height="140" fill="#fde68a"/>
+  <rect x="420" y="740" width="320" height="140" fill="#fee2e2"/>
+  <text x="450" y="110" text-anchor="middle" font-family="Arial, sans-serif" font-size="54" font-weight="700" fill="#222222">Aurora Market</text>
+  <text x="450" y="1010" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" fill="#666666">Simple store illustration</text>
+</svg>
